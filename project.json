@@ -2,7 +2,7 @@
   "name": "Descarga Comprobantes en Linea",
   "projectId": "ffc7bc86-3dfa-4be0-bb38-205985814369",
   "description": "Blank Process",
-  "main": "Descarga_CL_NuevoAFIP Sin ST.xaml",
+  "main": "Descarga_CL_NuevoAFIP Sin ST - Representado.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.16.0]",
     "UiPath.Mail.Activities": "[1.18.0]",
@@ -51,6 +51,12 @@
     {
       "filePath": "Descarga_CL_NuevoAFIP Sin ST.xaml",
       "uniqueId": "fe5dd5ac-ed3d-4f9b-8002-fa134017ab5c",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Descarga_CL_NuevoAFIP Sin ST - Representado.xaml",
+      "uniqueId": "e695019c-f6dc-4a7d-ae54-b1bdc3a8d432",
       "input": [],
       "output": []
     }
